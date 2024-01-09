@@ -1,7 +1,7 @@
 # github-api-ReactJS
 criando um sistema componetizado utilizando api do github e ReactJS 
 
-## Projeto desafio Spread da Dio realizado com sucesso, projeto tem como objetico pratico e tecnico a utilização de api's no react, utilizando metodos de requesito da lib Axios
+## Projeto desafio Spread da Dio realizado com sucesso, projeto tem como objetico pratico e tecnico a utilização de api's no react, utilizando metodos de requesito da lib Axios e a styled-components para stilisar nossa pagina.
 
 tela inicial
 
